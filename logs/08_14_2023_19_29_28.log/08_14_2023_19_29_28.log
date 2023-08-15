@@ -1,0 +1,57 @@
+[ 2023-08-14 19:29:30,974 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-14 19:29:30,982 ] 224 werkzeug - INFO -  * Debugger PIN: 415-198-019
+[ 2023-08-14 19:29:35,763 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:35] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-14 19:29:37,524 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:29:37,988 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:29:47,588 ] 60 root - INFO - Dataframe Gathered
+[ 2023-08-14 19:29:47,994 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2023-08-14 19:29:47,994 ] 28 root - INFO - Exception occured in prediction
+[ 2023-08-14 19:29:48,037 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:48] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-14 19:29:48,595 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:29:48,596 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:29:48,627 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:29:48,745 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:48] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:29:49,285 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:29:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:20,052 ] 60 root - INFO - Dataframe Gathered
+[ 2023-08-14 19:32:20,099 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2023-08-14 19:32:20,099 ] 28 root - INFO - Exception occured in prediction
+[ 2023-08-14 19:32:20,136 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:20] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-14 19:32:20,171 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:20,175 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:20,227 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:20,672 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:21,273 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:24,674 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:24] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-14 19:32:25,681 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:32:25,844 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:32:36,407 ] 60 root - INFO - Dataframe Gathered
+[ 2023-08-14 19:32:36,408 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2023-08-14 19:32:36,408 ] 28 root - INFO - Exception occured in prediction
+[ 2023-08-14 19:32:36,442 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-14 19:32:36,508 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:36,512 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:36,576 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:36,786 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:36] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:32:37,321 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:32:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:02,973 ] 60 root - INFO - Dataframe Gathered
+[ 2023-08-14 19:36:02,987 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2023-08-14 19:36:02,987 ] 28 root - INFO - Exception occured in prediction
+[ 2023-08-14 19:36:03,024 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-14 19:36:03,083 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:03,217 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:03,374 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:03,626 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:04,422 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:08,035 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:08] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-14 19:36:09,050 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:36:09,206 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-14 19:36:19,157 ] 60 root - INFO - Dataframe Gathered
+[ 2023-08-14 19:36:19,160 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2023-08-14 19:36:19,160 ] 28 root - INFO - Exception occured in prediction
+[ 2023-08-14 19:36:19,210 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:19] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-14 19:36:19,275 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:19,279 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:19,328 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:19,494 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-14 19:36:20,133 ] 224 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2023 19:36:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-15 13:35:56,782 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML Projects\\Insurance Premium Prediction\\src\\utils.py', reloading
