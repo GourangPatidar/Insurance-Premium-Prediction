@@ -47,7 +47,7 @@ class DataTransformation:
             cat_pipeline = Pipeline(
                 steps=[
                     ('OneHotencoder', OneHotEncoder(categories=[
-                    sex_categories, smoker_categories, region_categories], sparse_output=False)),
+                    sex_categories, smoker_categories, region_categories])),
                     
                 ]
 
