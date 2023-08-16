@@ -25,14 +25,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 
 ## Deployment Link :
-https://insurance-premium-prediction1.herokuapp.com/
-
-
-## Web Inerface :
-![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-2.png)
-
-
-![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-1%20.png)
+http://insurance-premium-prediction-env.eba-cnranump.eu-north-1.elasticbeanstalk.com/
 
 
 ## Libraries used :
