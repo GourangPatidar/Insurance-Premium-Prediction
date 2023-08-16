@@ -1,3 +1,0 @@
-[ 2023-08-14 18:42:10,682 ] 187 werkzeug - WARNING -  * Debugger is active!
-[ 2023-08-14 18:42:10,700 ] 187 werkzeug - INFO -  * Debugger PIN: 110-756-698
-[ 2023-08-14 18:42:26,151 ] 187 werkzeug - INFO -  * Detected change in 'e:\\ml projects\\insurance premium prediction\\application.py', reloading

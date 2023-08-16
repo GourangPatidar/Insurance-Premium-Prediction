@@ -48,7 +48,7 @@ class DataTransformation:
                 steps=[
                     ('OneHotencoder', OneHotEncoder(categories=[
                     sex_categories, smoker_categories, region_categories], sparse_output=False)),
-                    ('scaler', StandardScaler())
+                    
                 ]
 
             )
